@@ -1,0 +1,344 @@
+Tiger_ID,Actual_Location,Migrated_Location,Actual_Lat,Actual_Long,Migrated_Lat,Migrated_Long,Year
+1,Pilibhit Tiger Reserve,Sarni,28.6337,79.805,22.1183,78.1218,2023
+1,Dnyanganga Wildlife Sanctuary,Tipeshwar Wildlife Sanctuary,20.7426,76.3159,19.725,78.7697,2022
+1,Dnyanganga Wildlife Sanctuary,Renuka Forests,20.7426,76.3159,30.6111,77.437,2022
+1,Chandrapur,Dnyanganga Wildlife Sanctuary,19.9615,79.2961,20.7426,76.3159,2024
+1,Rajaji Tiger Reserve,Pilibhit Tiger Reserve,30.1121,77.9999,28.6337,79.805,2022
+1,Renuka Forests,Tadoba,30.6111,77.437,20.2415,79.3225,2024
+1,Tipeshwar Wildlife Sanctuary,Renuka Forests,19.725,78.7697,30.6111,77.437,2023
+1,Rajaji Tiger Reserve,Renuka Forests,30.1121,77.9999,30.6111,77.437,2022
+1,Western Ghats,Pilibhit Tiger Reserve,10.1692,77.0262,28.6337,79.805,2024
+1,Himalayan Foothills,Western Ghats,27.3328,88.6121,10.1692,77.0262,2022
+1,Western Ghats,Himalayan Foothills,10.1692,77.0262,27.3328,88.6121,2023
+2,Himalayan Foothills,Renuka Forests,27.3328,88.6121,30.6111,77.437,2022
+2,Odisha-Andhra Border,Renuka Forests,18.1124,83.3952,30.6111,77.437,2023
+2,Renuka Forests,Odisha-Andhra Border,30.6111,77.437,18.1124,83.3952,2024
+2,Tadoba,Odisha-Andhra Border,20.2415,79.3225,18.1124,83.3952,2022
+2,Dnyanganga Wildlife Sanctuary,Odisha-Andhra Border,20.7426,76.3159,18.1124,83.3952,2024
+2,Rajaji Tiger Reserve,Dnyanganga Wildlife Sanctuary,30.1121,77.9999,20.7426,76.3159,2024
+2,Dnyanganga Wildlife Sanctuary,Rajaji Tiger Reserve,20.7426,76.3159,30.1121,77.9999,2024
+2,Sarni,Tadoba,22.1183,78.1218,20.2415,79.3225,2022
+2,Pilibhit Tiger Reserve,Chandrapur,28.6337,79.805,19.9615,79.2961,2022
+2,Chandrapur,Pilibhit Tiger Reserve,19.9615,79.2961,28.6337,79.805,2023
+2,Himalayan Foothills,Western Ghats,27.3328,88.6121,10.1692,77.0262,2023
+3,Tipeshwar Wildlife Sanctuary,Odisha-Andhra Border,19.725,78.7697,18.1124,83.3952,2022
+3,Western Ghats,Sarni,10.1692,77.0262,22.1183,78.1218,2024
+3,Chandrapur,Sarni,19.9615,79.2961,22.1183,78.1218,2022
+3,Pilibhit Tiger Reserve,Rajaji Tiger Reserve,28.6337,79.805,30.1121,77.9999,2022
+3,Rajaji Tiger Reserve,Tadoba,30.1121,77.9999,20.2415,79.3225,2022
+3,Tadoba,Rajaji Tiger Reserve,20.2415,79.3225,30.1121,77.9999,2023
+3,Tipeshwar Wildlife Sanctuary,Odisha-Andhra Border,19.725,78.7697,18.1124,83.3952,2024
+3,Dnyanganga Wildlife Sanctuary,Odisha-Andhra Border,20.7426,76.3159,18.1124,83.3952,2022
+4,Pilibhit Tiger Reserve,Renuka Forests,28.6337,79.805,30.6111,77.437,2023
+4,Dnyanganga Wildlife Sanctuary,Pilibhit Tiger Reserve,20.7426,76.3159,28.6337,79.805,2023
+4,Pilibhit Tiger Reserve,Dnyanganga Wildlife Sanctuary,28.6337,79.805,20.7426,76.3159,2024
+4,Renuka Forests,Sarni,30.6111,77.437,22.1183,78.1218,2024
+4,Odisha-Andhra Border,Tipeshwar Wildlife Sanctuary,18.1124,83.3952,19.725,78.7697,2024
+4,Pilibhit Tiger Reserve,Odisha-Andhra Border,28.6337,79.805,18.1124,83.3952,2022
+4,Himalayan Foothills,Pilibhit Tiger Reserve,27.3328,88.6121,28.6337,79.805,2022
+4,Pilibhit Tiger Reserve,Himalayan Foothills,28.6337,79.805,27.3328,88.6121,2023
+4,Western Ghats,Odisha-Andhra Border,10.1692,77.0262,18.1124,83.3952,2024
+4,Pilibhit Tiger Reserve,Tadoba,28.6337,79.805,20.2415,79.3225,2024
+4,Rajaji Tiger Reserve,Renuka Forests,30.1121,77.9999,30.6111,77.437,2024
+4,Pilibhit Tiger Reserve,Western Ghats,28.6337,79.805,10.1692,77.0262,2022
+4,Tipeshwar Wildlife Sanctuary,Renuka Forests,19.725,78.7697,30.6111,77.437,2024
+4,Rajaji Tiger Reserve,Sarni,30.1121,77.9999,22.1183,78.1218,2023
+5,Tadoba,Dnyanganga Wildlife Sanctuary,20.2415,79.3225,20.7426,76.3159,2023
+5,Chandrapur,Rajaji Tiger Reserve,19.9615,79.2961,30.1121,77.9999,2023
+5,Renuka Forests,Himalayan Foothills,30.6111,77.437,27.3328,88.6121,2023
+5,Pilibhit Tiger Reserve,Himalayan Foothills,28.6337,79.805,27.3328,88.6121,2024
+5,Himalayan Foothills,Rajaji Tiger Reserve,27.3328,88.6121,30.1121,77.9999,2024
+5,Rajaji Tiger Reserve,Himalayan Foothills,30.1121,77.9999,27.3328,88.6121,2024
+5,Odisha-Andhra Border,Tadoba,18.1124,83.3952,20.2415,79.3225,2023
+5,Western Ghats,Tadoba,10.1692,77.0262,20.2415,79.3225,2023
+5,Tadoba,Western Ghats,20.2415,79.3225,10.1692,77.0262,2024
+5,Himalayan Foothills,Dnyanganga Wildlife Sanctuary,27.3328,88.6121,20.7426,76.3159,2022
+5,Tipeshwar Wildlife Sanctuary,Chandrapur,19.725,78.7697,19.9615,79.2961,2024
+5,Western Ghats,Tadoba,10.1692,77.0262,20.2415,79.3225,2022
+6,Himalayan Foothills,Rajaji Tiger Reserve,27.3328,88.6121,30.1121,77.9999,2024
+6,Sarni,Chandrapur,22.1183,78.1218,19.9615,79.2961,2024
+6,Tipeshwar Wildlife Sanctuary,Chandrapur,19.725,78.7697,19.9615,79.2961,2023
+6,Chandrapur,Tipeshwar Wildlife Sanctuary,19.9615,79.2961,19.725,78.7697,2024
+6,Odisha-Andhra Border,Tipeshwar Wildlife Sanctuary,18.1124,83.3952,19.725,78.7697,2023
+6,Tipeshwar Wildlife Sanctuary,Odisha-Andhra Border,19.725,78.7697,18.1124,83.3952,2023
+6,Tipeshwar Wildlife Sanctuary,Tadoba,19.725,78.7697,20.2415,79.3225,2023
+6,Pilibhit Tiger Reserve,Rajaji Tiger Reserve,28.6337,79.805,30.1121,77.9999,2024
+6,Tadoba,Odisha-Andhra Border,20.2415,79.3225,18.1124,83.3952,2024
+6,Tipeshwar Wildlife Sanctuary,Chandrapur,19.725,78.7697,19.9615,79.2961,2023
+6,Dnyanganga Wildlife Sanctuary,Himalayan Foothills,20.7426,76.3159,27.3328,88.6121,2024
+6,Himalayan Foothills,Dnyanganga Wildlife Sanctuary,27.3328,88.6121,20.7426,76.3159,2024
+6,Pilibhit Tiger Reserve,Renuka Forests,28.6337,79.805,30.6111,77.437,2024
+7,Renuka Forests,Chandrapur,30.6111,77.437,19.9615,79.2961,2023
+7,Chandrapur,Renuka Forests,19.9615,79.2961,30.6111,77.437,2024
+7,Western Ghats,Odisha-Andhra Border,10.1692,77.0262,18.1124,83.3952,2024
+7,Western Ghats,Tadoba,10.1692,77.0262,20.2415,79.3225,2022
+7,Chandrapur,Tadoba,19.9615,79.2961,20.2415,79.3225,2024
+7,Tadoba,Chandrapur,20.2415,79.3225,19.9615,79.2961,2024
+7,Dnyanganga Wildlife Sanctuary,Chandrapur,20.7426,76.3159,19.9615,79.2961,2023
+7,Tadoba,Chandrapur,20.2415,79.3225,19.9615,79.2961,2023
+7,Rajaji Tiger Reserve,Tipeshwar Wildlife Sanctuary,30.1121,77.9999,19.725,78.7697,2022
+7,Sarni,Tipeshwar Wildlife Sanctuary,22.1183,78.1218,19.725,78.7697,2023
+7,Odisha-Andhra Border,Western Ghats,18.1124,83.3952,10.1692,77.0262,2023
+8,Dnyanganga Wildlife Sanctuary,Tipeshwar Wildlife Sanctuary,20.7426,76.3159,19.725,78.7697,2023
+8,Tadoba,Chandrapur,20.2415,79.3225,19.9615,79.2961,2023
+8,Odisha-Andhra Border,Dnyanganga Wildlife Sanctuary,18.1124,83.3952,20.7426,76.3159,2023
+8,Dnyanganga Wildlife Sanctuary,Odisha-Andhra Border,20.7426,76.3159,18.1124,83.3952,2024
+8,Rajaji Tiger Reserve,Himalayan Foothills,30.1121,77.9999,27.3328,88.6121,2024
+8,Himalayan Foothills,Rajaji Tiger Reserve,27.3328,88.6121,30.1121,77.9999,2024
+8,Dnyanganga Wildlife Sanctuary,Pilibhit Tiger Reserve,20.7426,76.3159,28.6337,79.805,2023
+8,Pilibhit Tiger Reserve,Tadoba,28.6337,79.805,20.2415,79.3225,2022
+8,Rajaji Tiger Reserve,Chandrapur,30.1121,77.9999,19.9615,79.2961,2024
+8,Renuka Forests,Chandrapur,30.6111,77.437,19.9615,79.2961,2022
+8,Tipeshwar Wildlife Sanctuary,Tadoba,19.725,78.7697,20.2415,79.3225,2022
+8,Tadoba,Tipeshwar Wildlife Sanctuary,20.2415,79.3225,19.725,78.7697,2023
+9,Himalayan Foothills,Pilibhit Tiger Reserve,27.3328,88.6121,28.6337,79.805,2024
+9,Tipeshwar Wildlife Sanctuary,Sarni,19.725,78.7697,22.1183,78.1218,2023
+9,Pilibhit Tiger Reserve,Chandrapur,28.6337,79.805,19.9615,79.2961,2023
+9,Pilibhit Tiger Reserve,Western Ghats,28.6337,79.805,10.1692,77.0262,2024
+9,Western Ghats,Pilibhit Tiger Reserve,10.1692,77.0262,28.6337,79.805,2024
+9,Pilibhit Tiger Reserve,Himalayan Foothills,28.6337,79.805,27.3328,88.6121,2024
+9,Dnyanganga Wildlife Sanctuary,Renuka Forests,20.7426,76.3159,30.6111,77.437,2022
+9,Rajaji Tiger Reserve,Himalayan Foothills,30.1121,77.9999,27.3328,88.6121,2022
+9,Himalayan Foothills,Rajaji Tiger Reserve,27.3328,88.6121,30.1121,77.9999,2023
+9,Pilibhit Tiger Reserve,Himalayan Foothills,28.6337,79.805,27.3328,88.6121,2024
+9,Dnyanganga Wildlife Sanctuary,Tipeshwar Wildlife Sanctuary,20.7426,76.3159,19.725,78.7697,2024
+9,Rajaji Tiger Reserve,Odisha-Andhra Border,30.1121,77.9999,18.1124,83.3952,2024
+9,Tadoba,Pilibhit Tiger Reserve,20.2415,79.3225,28.6337,79.805,2022
+9,Chandrapur,Pilibhit Tiger Reserve,19.9615,79.2961,28.6337,79.805,2024
+10,Dnyanganga Wildlife Sanctuary,Himalayan Foothills,20.7426,76.3159,27.3328,88.6121,2023
+10,Pilibhit Tiger Reserve,Tipeshwar Wildlife Sanctuary,28.6337,79.805,19.725,78.7697,2022
+10,Odisha-Andhra Border,Himalayan Foothills,18.1124,83.3952,27.3328,88.6121,2023
+10,Sarni,Himalayan Foothills,22.1183,78.1218,27.3328,88.6121,2023
+10,Tadoba,Western Ghats,20.2415,79.3225,10.1692,77.0262,2024
+10,Western Ghats,Tadoba,10.1692,77.0262,20.2415,79.3225,2024
+10,Odisha-Andhra Border,Dnyanganga Wildlife Sanctuary,18.1124,83.3952,20.7426,76.3159,2022
+10,Dnyanganga Wildlife Sanctuary,Odisha-Andhra Border,20.7426,76.3159,18.1124,83.3952,2023
+10,Pilibhit Tiger Reserve,Dnyanganga Wildlife Sanctuary,28.6337,79.805,20.7426,76.3159,2022
+10,Dnyanganga Wildlife Sanctuary,Pilibhit Tiger Reserve,20.7426,76.3159,28.6337,79.805,2023
+10,Tipeshwar Wildlife Sanctuary,Chandrapur,19.725,78.7697,19.9615,79.2961,2024
+10,Odisha-Andhra Border,Western Ghats,18.1124,83.3952,10.1692,77.0262,2024
+11,Tadoba,Western Ghats,20.2415,79.3225,10.1692,77.0262,2023
+11,Odisha-Andhra Border,Chandrapur,18.1124,83.3952,19.9615,79.2961,2022
+11,Odisha-Andhra Border,Chandrapur,18.1124,83.3952,19.9615,79.2961,2024
+11,Sarni,Dnyanganga Wildlife Sanctuary,22.1183,78.1218,20.7426,76.3159,2024
+11,Himalayan Foothills,Pilibhit Tiger Reserve,27.3328,88.6121,28.6337,79.805,2022
+11,Rajaji Tiger Reserve,Renuka Forests,30.1121,77.9999,30.6111,77.437,2024
+11,Sarni,Tadoba,22.1183,78.1218,20.2415,79.3225,2022
+11,Sarni,Himalayan Foothills,22.1183,78.1218,27.3328,88.6121,2022
+12,Sarni,Rajaji Tiger Reserve,22.1183,78.1218,30.1121,77.9999,2022
+12,Renuka Forests,Pilibhit Tiger Reserve,30.6111,77.437,28.6337,79.805,2022
+12,Pilibhit Tiger Reserve,Renuka Forests,28.6337,79.805,30.6111,77.437,2023
+12,Dnyanganga Wildlife Sanctuary,Tadoba,20.7426,76.3159,20.2415,79.3225,2023
+12,Western Ghats,Odisha-Andhra Border,10.1692,77.0262,18.1124,83.3952,2022
+12,Sarni,Tadoba,22.1183,78.1218,20.2415,79.3225,2022
+13,Tadoba,Himalayan Foothills,20.2415,79.3225,27.3328,88.6121,2022
+13,Odisha-Andhra Border,Sarni,18.1124,83.3952,22.1183,78.1218,2022
+13,Chandrapur,Tadoba,19.9615,79.2961,20.2415,79.3225,2022
+13,Tadoba,Chandrapur,20.2415,79.3225,19.9615,79.2961,2023
+13,Tadoba,Himalayan Foothills,20.2415,79.3225,27.3328,88.6121,2022
+13,Pilibhit Tiger Reserve,Tipeshwar Wildlife Sanctuary,28.6337,79.805,19.725,78.7697,2023
+13,Tipeshwar Wildlife Sanctuary,Pilibhit Tiger Reserve,19.725,78.7697,28.6337,79.805,2024
+13,Odisha-Andhra Border,Himalayan Foothills,18.1124,83.3952,27.3328,88.6121,2023
+13,Renuka Forests,Chandrapur,30.6111,77.437,19.9615,79.2961,2023
+13,Chandrapur,Tadoba,19.9615,79.2961,20.2415,79.3225,2022
+13,Dnyanganga Wildlife Sanctuary,Rajaji Tiger Reserve,20.7426,76.3159,30.1121,77.9999,2023
+13,Rajaji Tiger Reserve,Dnyanganga Wildlife Sanctuary,30.1121,77.9999,20.7426,76.3159,2024
+13,Western Ghats,Tadoba,10.1692,77.0262,20.2415,79.3225,2022
+13,Tadoba,Western Ghats,20.2415,79.3225,10.1692,77.0262,2023
+13,Tadoba,Himalayan Foothills,20.2415,79.3225,27.3328,88.6121,2022
+13,Odisha-Andhra Border,Himalayan Foothills,18.1124,83.3952,27.3328,88.6121,2024
+14,Western Ghats,Renuka Forests,10.1692,77.0262,30.6111,77.437,2024
+14,Renuka Forests,Western Ghats,30.6111,77.437,10.1692,77.0262,2024
+14,Sarni,Tipeshwar Wildlife Sanctuary,22.1183,78.1218,19.725,78.7697,2023
+14,Tipeshwar Wildlife Sanctuary,Chandrapur,19.725,78.7697,19.9615,79.2961,2022
+14,Tipeshwar Wildlife Sanctuary,Pilibhit Tiger Reserve,19.725,78.7697,28.6337,79.805,2022
+14,Tadoba,Odisha-Andhra Border,20.2415,79.3225,18.1124,83.3952,2022
+15,Pilibhit Tiger Reserve,Rajaji Tiger Reserve,28.6337,79.805,30.1121,77.9999,2022
+15,Tadoba,Renuka Forests,20.2415,79.3225,30.6111,77.437,2024
+15,Tipeshwar Wildlife Sanctuary,Pilibhit Tiger Reserve,19.725,78.7697,28.6337,79.805,2024
+15,Pilibhit Tiger Reserve,Tipeshwar Wildlife Sanctuary,28.6337,79.805,19.725,78.7697,2024
+15,Chandrapur,Renuka Forests,19.9615,79.2961,30.6111,77.437,2022
+15,Chandrapur,Western Ghats,19.9615,79.2961,10.1692,77.0262,2024
+15,Renuka Forests,Pilibhit Tiger Reserve,30.6111,77.437,28.6337,79.805,2024
+15,Rajaji Tiger Reserve,Western Ghats,30.1121,77.9999,10.1692,77.0262,2024
+15,Western Ghats,Rajaji Tiger Reserve,10.1692,77.0262,30.1121,77.9999,2024
+15,Tadoba,Dnyanganga Wildlife Sanctuary,20.2415,79.3225,20.7426,76.3159,2024
+15,Dnyanganga Wildlife Sanctuary,Rajaji Tiger Reserve,20.7426,76.3159,30.1121,77.9999,2022
+15,Chandrapur,Sarni,19.9615,79.2961,22.1183,78.1218,2024
+15,Pilibhit Tiger Reserve,Chandrapur,28.6337,79.805,19.9615,79.2961,2023
+15,Renuka Forests,Tipeshwar Wildlife Sanctuary,30.6111,77.437,19.725,78.7697,2024
+15,Himalayan Foothills,Rajaji Tiger Reserve,27.3328,88.6121,30.1121,77.9999,2023
+16,Renuka Forests,Western Ghats,30.6111,77.437,10.1692,77.0262,2023
+16,Odisha-Andhra Border,Renuka Forests,18.1124,83.3952,30.6111,77.437,2023
+16,Pilibhit Tiger Reserve,Rajaji Tiger Reserve,28.6337,79.805,30.1121,77.9999,2023
+16,Chandrapur,Pilibhit Tiger Reserve,19.9615,79.2961,28.6337,79.805,2023
+16,Sarni,Himalayan Foothills,22.1183,78.1218,27.3328,88.6121,2023
+16,Renuka Forests,Tipeshwar Wildlife Sanctuary,30.6111,77.437,19.725,78.7697,2023
+16,Himalayan Foothills,Tadoba,27.3328,88.6121,20.2415,79.3225,2024
+16,Pilibhit Tiger Reserve,Odisha-Andhra Border,28.6337,79.805,18.1124,83.3952,2023
+16,Dnyanganga Wildlife Sanctuary,Odisha-Andhra Border,20.7426,76.3159,18.1124,83.3952,2022
+16,Chandrapur,Pilibhit Tiger Reserve,19.9615,79.2961,28.6337,79.805,2023
+16,Chandrapur,Pilibhit Tiger Reserve,19.9615,79.2961,28.6337,79.805,2024
+16,Chandrapur,Renuka Forests,19.9615,79.2961,30.6111,77.437,2024
+16,Renuka Forests,Chandrapur,30.6111,77.437,19.9615,79.2961,2024
+17,Pilibhit Tiger Reserve,Himalayan Foothills,28.6337,79.805,27.3328,88.6121,2023
+17,Himalayan Foothills,Pilibhit Tiger Reserve,27.3328,88.6121,28.6337,79.805,2024
+17,Sarni,Odisha-Andhra Border,22.1183,78.1218,18.1124,83.3952,2024
+17,Sarni,Dnyanganga Wildlife Sanctuary,22.1183,78.1218,20.7426,76.3159,2023
+17,Western Ghats,Sarni,10.1692,77.0262,22.1183,78.1218,2024
+17,Sarni,Western Ghats,22.1183,78.1218,10.1692,77.0262,2024
+17,Dnyanganga Wildlife Sanctuary,Western Ghats,20.7426,76.3159,10.1692,77.0262,2023
+17,Western Ghats,Dnyanganga Wildlife Sanctuary,10.1692,77.0262,20.7426,76.3159,2024
+17,Western Ghats,Renuka Forests,10.1692,77.0262,30.6111,77.437,2022
+17,Tipeshwar Wildlife Sanctuary,Dnyanganga Wildlife Sanctuary,19.725,78.7697,20.7426,76.3159,2023
+17,Himalayan Foothills,Pilibhit Tiger Reserve,27.3328,88.6121,28.6337,79.805,2022
+17,Western Ghats,Himalayan Foothills,10.1692,77.0262,27.3328,88.6121,2022
+18,Himalayan Foothills,Pilibhit Tiger Reserve,27.3328,88.6121,28.6337,79.805,2023
+18,Dnyanganga Wildlife Sanctuary,Rajaji Tiger Reserve,20.7426,76.3159,30.1121,77.9999,2024
+18,Sarni,Himalayan Foothills,22.1183,78.1218,27.3328,88.6121,2022
+18,Western Ghats,Dnyanganga Wildlife Sanctuary,10.1692,77.0262,20.7426,76.3159,2024
+18,Odisha-Andhra Border,Pilibhit Tiger Reserve,18.1124,83.3952,28.6337,79.805,2023
+18,Dnyanganga Wildlife Sanctuary,Western Ghats,20.7426,76.3159,10.1692,77.0262,2024
+18,Chandrapur,Renuka Forests,19.9615,79.2961,30.6111,77.437,2024
+18,Renuka Forests,Chandrapur,30.6111,77.437,19.9615,79.2961,2024
+18,Pilibhit Tiger Reserve,Rajaji Tiger Reserve,28.6337,79.805,30.1121,77.9999,2024
+18,Renuka Forests,Dnyanganga Wildlife Sanctuary,30.6111,77.437,20.7426,76.3159,2024
+19,Renuka Forests,Sarni,30.6111,77.437,22.1183,78.1218,2022
+19,Sarni,Renuka Forests,22.1183,78.1218,30.6111,77.437,2023
+19,Odisha-Andhra Border,Tipeshwar Wildlife Sanctuary,18.1124,83.3952,19.725,78.7697,2023
+19,Renuka Forests,Chandrapur,30.6111,77.437,19.9615,79.2961,2023
+19,Chandrapur,Sarni,19.9615,79.2961,22.1183,78.1218,2022
+19,Rajaji Tiger Reserve,Himalayan Foothills,30.1121,77.9999,27.3328,88.6121,2024
+19,Himalayan Foothills,Rajaji Tiger Reserve,27.3328,88.6121,30.1121,77.9999,2024
+19,Chandrapur,Himalayan Foothills,19.9615,79.2961,27.3328,88.6121,2024
+19,Himalayan Foothills,Chandrapur,27.3328,88.6121,19.9615,79.2961,2024
+20,Dnyanganga Wildlife Sanctuary,Tipeshwar Wildlife Sanctuary,20.7426,76.3159,19.725,78.7697,2023
+20,Renuka Forests,Tadoba,30.6111,77.437,20.2415,79.3225,2024
+20,Western Ghats,Sarni,10.1692,77.0262,22.1183,78.1218,2023
+20,Pilibhit Tiger Reserve,Himalayan Foothills,28.6337,79.805,27.3328,88.6121,2024
+20,Chandrapur,Himalayan Foothills,19.9615,79.2961,27.3328,88.6121,2024
+20,Sarni,Odisha-Andhra Border,22.1183,78.1218,18.1124,83.3952,2022
+20,Tadoba,Odisha-Andhra Border,20.2415,79.3225,18.1124,83.3952,2024
+20,Odisha-Andhra Border,Tadoba,18.1124,83.3952,20.2415,79.3225,2024
+1,Tipeshwar Wildlife Sanctuary,Tadoba,19.725,78.7697,20.2415,79.3225,2024
+1,Tadoba,Tipeshwar Wildlife Sanctuary,20.2415,79.3225,19.725,78.7697,2024
+1,Renuka Forests,Himalayan Foothills,30.6111,77.437,27.3328,88.6121,2022
+1,Himalayan Foothills,Renuka Forests,27.3328,88.6121,30.6111,77.437,2023
+1,Tadoba,Tipeshwar Wildlife Sanctuary,20.2415,79.3225,19.725,78.7697,2022
+1,Dnyanganga Wildlife Sanctuary,Tadoba,20.7426,76.3159,20.2415,79.3225,2024
+1,Western Ghats,Renuka Forests,10.1692,77.0262,30.6111,77.437,2023
+1,Odisha-Andhra Border,Dnyanganga Wildlife Sanctuary,18.1124,83.3952,20.7426,76.3159,2022
+1,Dnyanganga Wildlife Sanctuary,Chandrapur,20.7426,76.3159,19.9615,79.2961,2024
+1,Dnyanganga Wildlife Sanctuary,Renuka Forests,20.7426,76.3159,30.6111,77.437,2023
+1,Himalayan Foothills,Renuka Forests,27.3328,88.6121,30.6111,77.437,2023
+1,Himalayan Foothills,Dnyanganga Wildlife Sanctuary,27.3328,88.6121,20.7426,76.3159,2024
+1,Dnyanganga Wildlife Sanctuary,Himalayan Foothills,20.7426,76.3159,27.3328,88.6121,2024
+1,Himalayan Foothills,Dnyanganga Wildlife Sanctuary,27.3328,88.6121,20.7426,76.3159,2022
+1,Chandrapur,Western Ghats,19.9615,79.2961,10.1692,77.0262,2024
+1,Sarni,Pilibhit Tiger Reserve,22.1183,78.1218,28.6337,79.805,2023
+1,Tadoba,Pilibhit Tiger Reserve,20.2415,79.3225,28.6337,79.805,2023
+1,Pilibhit Tiger Reserve,Tadoba,28.6337,79.805,20.2415,79.3225,2024
+2,Tadoba,Renuka Forests,20.2415,79.3225,30.6111,77.437,2024
+2,Western Ghats,Pilibhit Tiger Reserve,10.1692,77.0262,28.6337,79.805,2023
+2,Dnyanganga Wildlife Sanctuary,Western Ghats,20.7426,76.3159,10.1692,77.0262,2023
+2,Tadoba,Western Ghats,20.2415,79.3225,10.1692,77.0262,2023
+2,Tipeshwar Wildlife Sanctuary,Chandrapur,19.725,78.7697,19.9615,79.2961,2022
+2,Renuka Forests,Chandrapur,30.6111,77.437,19.9615,79.2961,2023
+2,Chandrapur,Renuka Forests,19.9615,79.2961,30.6111,77.437,2024
+2,Rajaji Tiger Reserve,Chandrapur,30.1121,77.9999,19.9615,79.2961,2022
+2,Chandrapur,Rajaji Tiger Reserve,19.9615,79.2961,30.1121,77.9999,2023
+2,Western Ghats,Sarni,10.1692,77.0262,22.1183,78.1218,2023
+2,Himalayan Foothills,Renuka Forests,27.3328,88.6121,30.6111,77.437,2022
+2,Renuka Forests,Himalayan Foothills,30.6111,77.437,27.3328,88.6121,2023
+2,Rajaji Tiger Reserve,Sarni,30.1121,77.9999,22.1183,78.1218,2024
+2,Sarni,Rajaji Tiger Reserve,22.1183,78.1218,30.1121,77.9999,2024
+2,Renuka Forests,Tadoba,30.6111,77.437,20.2415,79.3225,2023
+2,Odisha-Andhra Border,Dnyanganga Wildlife Sanctuary,18.1124,83.3952,20.7426,76.3159,2022
+2,Dnyanganga Wildlife Sanctuary,Sarni,20.7426,76.3159,22.1183,78.1218,2024
+3,Pilibhit Tiger Reserve,Himalayan Foothills,28.6337,79.805,27.3328,88.6121,2024
+3,Himalayan Foothills,Pilibhit Tiger Reserve,27.3328,88.6121,28.6337,79.805,2024
+3,Renuka Forests,Western Ghats,30.6111,77.437,10.1692,77.0262,2023
+3,Pilibhit Tiger Reserve,Odisha-Andhra Border,28.6337,79.805,18.1124,83.3952,2023
+3,Odisha-Andhra Border,Pilibhit Tiger Reserve,18.1124,83.3952,28.6337,79.805,2024
+3,Rajaji Tiger Reserve,Tipeshwar Wildlife Sanctuary,30.1121,77.9999,19.725,78.7697,2023
+3,Rajaji Tiger Reserve,Sarni,30.1121,77.9999,22.1183,78.1218,2022
+3,Sarni,Rajaji Tiger Reserve,22.1183,78.1218,30.1121,77.9999,2023
+3,Himalayan Foothills,Western Ghats,27.3328,88.6121,10.1692,77.0262,2022
+3,Pilibhit Tiger Reserve,Chandrapur,28.6337,79.805,19.9615,79.2961,2022
+3,Dnyanganga Wildlife Sanctuary,Himalayan Foothills,20.7426,76.3159,27.3328,88.6121,2022
+3,Himalayan Foothills,Dnyanganga Wildlife Sanctuary,27.3328,88.6121,20.7426,76.3159,2023
+3,Tipeshwar Wildlife Sanctuary,Western Ghats,19.725,78.7697,10.1692,77.0262,2023
+3,Western Ghats,Tipeshwar Wildlife Sanctuary,10.1692,77.0262,19.725,78.7697,2024
+3,Dnyanganga Wildlife Sanctuary,Odisha-Andhra Border,20.7426,76.3159,18.1124,83.3952,2023
+3,Odisha-Andhra Border,Dnyanganga Wildlife Sanctuary,18.1124,83.3952,20.7426,76.3159,2024
+3,Rajaji Tiger Reserve,Odisha-Andhra Border,30.1121,77.9999,18.1124,83.3952,2023
+3,Sarni,Tadoba,22.1183,78.1218,20.2415,79.3225,2022
+3,Sarni,Rajaji Tiger Reserve,22.1183,78.1218,30.1121,77.9999,2024
+4,Sarni,Renuka Forests,22.1183,78.1218,30.6111,77.437,2022
+4,Rajaji Tiger Reserve,Tipeshwar Wildlife Sanctuary,30.1121,77.9999,19.725,78.7697,2023
+4,Rajaji Tiger Reserve,Tadoba,30.1121,77.9999,20.2415,79.3225,2022
+4,Tadoba,Western Ghats,20.2415,79.3225,10.1692,77.0262,2024
+4,Western Ghats,Pilibhit Tiger Reserve,10.1692,77.0262,28.6337,79.805,2024
+4,Dnyanganga Wildlife Sanctuary,Western Ghats,20.7426,76.3159,10.1692,77.0262,2023
+4,Western Ghats,Dnyanganga Wildlife Sanctuary,10.1692,77.0262,20.7426,76.3159,2024
+4,Rajaji Tiger Reserve,Tadoba,30.1121,77.9999,20.2415,79.3225,2023
+4,Pilibhit Tiger Reserve,Chandrapur,28.6337,79.805,19.9615,79.2961,2023
+4,Dnyanganga Wildlife Sanctuary,Odisha-Andhra Border,20.7426,76.3159,18.1124,83.3952,2023
+4,Odisha-Andhra Border,Dnyanganga Wildlife Sanctuary,18.1124,83.3952,20.7426,76.3159,2024
+4,Sarni,Tadoba,22.1183,78.1218,20.2415,79.3225,2024
+4,Tadoba,Renuka Forests,20.2415,79.3225,30.6111,77.437,2022
+4,Renuka Forests,Tadoba,30.6111,77.437,20.2415,79.3225,2023
+4,Himalayan Foothills,Dnyanganga Wildlife Sanctuary,27.3328,88.6121,20.7426,76.3159,2024
+4,Pilibhit Tiger Reserve,Renuka Forests,28.6337,79.805,30.6111,77.437,2022
+5,Renuka Forests,Odisha-Andhra Border,30.6111,77.437,18.1124,83.3952,2023
+5,Tadoba,Chandrapur,20.2415,79.3225,19.9615,79.2961,2022
+5,Chandrapur,Tadoba,19.9615,79.2961,20.2415,79.3225,2023
+5,Dnyanganga Wildlife Sanctuary,Himalayan Foothills,20.7426,76.3159,27.3328,88.6121,2022
+5,Himalayan Foothills,Dnyanganga Wildlife Sanctuary,27.3328,88.6121,20.7426,76.3159,2023
+5,Rajaji Tiger Reserve,Tadoba,30.1121,77.9999,20.2415,79.3225,2023
+5,Tadoba,Rajaji Tiger Reserve,20.2415,79.3225,30.1121,77.9999,2024
+5,Sarni,Tipeshwar Wildlife Sanctuary,22.1183,78.1218,19.725,78.7697,2024
+5,Pilibhit Tiger Reserve,Renuka Forests,28.6337,79.805,30.6111,77.437,2023
+5,Tipeshwar Wildlife Sanctuary,Odisha-Andhra Border,19.725,78.7697,18.1124,83.3952,2023
+5,Western Ghats,Dnyanganga Wildlife Sanctuary,10.1692,77.0262,20.7426,76.3159,2022
+5,Himalayan Foothills,Sarni,27.3328,88.6121,22.1183,78.1218,2022
+5,Tadoba,Tipeshwar Wildlife Sanctuary,20.2415,79.3225,19.725,78.7697,2022
+5,Chandrapur,Tadoba,19.9615,79.2961,20.2415,79.3225,2022
+5,Himalayan Foothills,Rajaji Tiger Reserve,27.3328,88.6121,30.1121,77.9999,2022
+5,Sarni,Himalayan Foothills,22.1183,78.1218,27.3328,88.6121,2023
+5,Chandrapur,Odisha-Andhra Border,19.9615,79.2961,18.1124,83.3952,2022
+6,Tipeshwar Wildlife Sanctuary,Chandrapur,19.725,78.7697,19.9615,79.2961,2023
+6,Dnyanganga Wildlife Sanctuary,Pilibhit Tiger Reserve,20.7426,76.3159,28.6337,79.805,2023
+6,Pilibhit Tiger Reserve,Himalayan Foothills,28.6337,79.805,27.3328,88.6121,2024
+6,Tipeshwar Wildlife Sanctuary,Himalayan Foothills,19.725,78.7697,27.3328,88.6121,2024
+6,Himalayan Foothills,Tipeshwar Wildlife Sanctuary,27.3328,88.6121,19.725,78.7697,2024
+6,Sarni,Rajaji Tiger Reserve,22.1183,78.1218,30.1121,77.9999,2023
+6,Sarni,Chandrapur,22.1183,78.1218,19.9615,79.2961,2022
+6,Odisha-Andhra Border,Tipeshwar Wildlife Sanctuary,18.1124,83.3952,19.725,78.7697,2022
+6,Renuka Forests,Tipeshwar Wildlife Sanctuary,30.6111,77.437,19.725,78.7697,2024
+6,Tipeshwar Wildlife Sanctuary,Renuka Forests,19.725,78.7697,30.6111,77.437,2024
+6,Sarni,Western Ghats,22.1183,78.1218,10.1692,77.0262,2024
+6,Western Ghats,Sarni,10.1692,77.0262,22.1183,78.1218,2024
+6,Chandrapur,Dnyanganga Wildlife Sanctuary,19.9615,79.2961,20.7426,76.3159,2022
+6,Dnyanganga Wildlife Sanctuary,Chandrapur,20.7426,76.3159,19.9615,79.2961,2023
+6,Sarni,Chandrapur,22.1183,78.1218,19.9615,79.2961,2022
+6,Tadoba,Western Ghats,20.2415,79.3225,10.1692,77.0262,2022
+7,Himalayan Foothills,Sarni,27.3328,88.6121,22.1183,78.1218,2022
+7,Tadoba,Dnyanganga Wildlife Sanctuary,20.2415,79.3225,20.7426,76.3159,2022
+7,Dnyanganga Wildlife Sanctuary,Tadoba,20.7426,76.3159,20.2415,79.3225,2023
+7,Himalayan Foothills,Rajaji Tiger Reserve,27.3328,88.6121,30.1121,77.9999,2024
+7,Chandrapur,Western Ghats,19.9615,79.2961,10.1692,77.0262,2024
+7,Himalayan Foothills,Sarni,27.3328,88.6121,22.1183,78.1218,2022
+7,Odisha-Andhra Border,Tipeshwar Wildlife Sanctuary,18.1124,83.3952,19.725,78.7697,2023
+7,Himalayan Foothills,Western Ghats,27.3328,88.6121,10.1692,77.0262,2022
+7,Western Ghats,Tadoba,10.1692,77.0262,20.2415,79.3225,2023
+7,Rajaji Tiger Reserve,Sarni,30.1121,77.9999,22.1183,78.1218,2022
+7,Sarni,Rajaji Tiger Reserve,22.1183,78.1218,30.1121,77.9999,2023
+7,Renuka Forests,Sarni,30.6111,77.437,22.1183,78.1218,2023
+7,Pilibhit Tiger Reserve,Himalayan Foothills,28.6337,79.805,27.3328,88.6121,2022
+7,Himalayan Foothills,Pilibhit Tiger Reserve,27.3328,88.6121,28.6337,79.805,2023
+7,Himalayan Foothills,Western Ghats,27.3328,88.6121,10.1692,77.0262,2023
+7,Tadoba,Himalayan Foothills,20.2415,79.3225,27.3328,88.6121,2024
+7,Himalayan Foothills,Tadoba,27.3328,88.6121,20.2415,79.3225,2024
+8,Rajaji Tiger Reserve,Tipeshwar Wildlife Sanctuary,30.1121,77.9999,19.725,78.7697,2023
+8,Odisha-Andhra Border,Tipeshwar Wildlife Sanctuary,18.1124,83.3952,19.725,78.7697,2023

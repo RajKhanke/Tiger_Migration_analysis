@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tiger Migration Analysis</title>
+    <!-- Bootstrap 4 CDN for styling -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome for icons -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+    <!-- Custom CSS for styling -->
+    <style>
+        body {
+            background-color: #e9f7ef; /* Light green background */
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            font-size: 36px;
+            text-align: center;
+            color: #2d6a4f; /* Dark green */
+            margin-top: 40px;
+        }
+        .container {
+            margin-top: 60px;
+            margin-bottom: 60px;
+        }
+        .map-container {
+            margin: 0 30px;
+            border: 5px solid #2d6a4f;
+            border-radius: 15px;
+            height: 650px;  /* Increased map height */
+            width: 95%;     /* Increased map width */
+        }
+        .data-table-container {
+            margin-top: 40px;
+            max-height: 450px;
+            overflow-y: scroll;
+            padding: 15px;
+            border-radius: 10px;
+            background-color: #ffffff;
+            border: 1px solid #2d6a4f;
+        }
+        .table th {
+            background-color: #2d6a4f;
+            color: white;
+        }
+        .table-striped tbody tr:nth-of-type(odd) {
+            background-color: #f8f9fa;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Tiger Migration Analysis</h1>
+
+        <!-- Map container -->
+        <div class="map-container">
+            <iframe src="{{ map_path }}" width="100%" height="100%" style="border: none;"></iframe>
+        </div>
+
+        <!-- Data Table -->
+        <div class="data-table-container">
+            <h4>Migration Data</h4>
+            {{ df|safe }} <!-- Rendering the dataset as HTML table -->
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and dependencies (jQuery and Popper) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
